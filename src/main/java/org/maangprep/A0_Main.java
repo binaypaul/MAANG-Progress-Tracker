@@ -1,6 +1,6 @@
 package org.maangprep;
 
-public class Main {
+public class A0_Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
